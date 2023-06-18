@@ -4,11 +4,11 @@
 #### Now this can either be done by manually writing the code or by using existing platforms like 20Lab, Kaleido etc. I used [this](https://vittominacori.github.io/erc20-generator/) to create my ERC-20 token. Set out your preferences and voila, your contract is compiled and deployed.
 #### To publish your token, a gas fee is charged. Be sure to mine the said currency beforehand(I mined GoerliETH testnet from [here](https://goerli-faucet.pk910.de/)).
 #### Now check your Token on https://etherscan.io/
+!![image](https://github.com/OMkrishnagupta/Hypreledger_fabric/assets/121112264/e918c531-8ebb-4dce-9ab7-2f15fc116fa1)
+
 
 !![image](https://github.com/OMkrishnagupta/Hypreledger_fabric/assets/121112264/8b64611a-17f3-43b3-b53f-eb0b4d0f192c)
 
-
-!![image](https://github.com/OMkrishnagupta/Hypreledger_fabric/assets/121112264/e918c531-8ebb-4dce-9ab7-2f15fc116fa1)
 
 Note: Creating an ERC20 token involves careful planning, coding, and consideration of security best practices. It's essential to understand the implications and requirements of the Ethereum network and the ERC20 standard
 
