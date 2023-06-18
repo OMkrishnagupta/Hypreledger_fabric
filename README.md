@@ -6,7 +6,9 @@
 #### Now check your Token on https://etherscan.io/
 
 !![image](https://github.com/OMkrishnagupta/Hypreledger_fabric/assets/121112264/8b64611a-17f3-43b3-b53f-eb0b4d0f192c)
-[image](https://github.com/OMkrishnagupta/Hypreledger_fabric/assets/121112264/e918c531-8ebb-4dce-9ab7-2f15fc116fa1)
+
+
+!![image](https://github.com/OMkrishnagupta/Hypreledger_fabric/assets/121112264/e918c531-8ebb-4dce-9ab7-2f15fc116fa1)
 
 Note: Creating an ERC20 token involves careful planning, coding, and consideration of security best practices. It's essential to understand the implications and requirements of the Ethereum network and the ERC20 standard
 
